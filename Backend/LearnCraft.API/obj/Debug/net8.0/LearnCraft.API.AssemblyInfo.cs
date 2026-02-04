@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnCraft.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cf786ea3c4706ea7c27f4f2a1865fd10b92b324")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d37a564c1af82b5cffe3344b187556dd10b187c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnCraft.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnCraft.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
